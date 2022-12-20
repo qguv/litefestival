@@ -1,4 +1,4 @@
-sketches.push(function() {
+sketches.unshift(function() {
   const [w, h] = [1920, 1080]; // px
   const space = 120; // px
   const [min_size_aoe, max_size_aoe] = [0, 400]; // px
